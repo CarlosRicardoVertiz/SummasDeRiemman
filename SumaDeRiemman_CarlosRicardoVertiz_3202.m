@@ -4,7 +4,6 @@
 %grupo: 3202
 
 % SUMAS DE RIEMMAN
-% Descripcion: grafica la funcion f(x)=(1)./(1-(x.^2),[-2,4] ¿existe?
 
 % limpiar variables
 clear   
